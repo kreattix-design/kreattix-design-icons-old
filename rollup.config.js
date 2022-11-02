@@ -14,12 +14,12 @@ export default {
   ],
   output: [
     {
-      file: `./${pkg.outputDir}/${pkg.module}`,
+      file: `./${pkg.module}`,
       format: 'es',
       sourcemap: true
     },
     {
-      file: `./${pkg.outputDir}/${pkg.main}`,
+      file: `./${pkg.main}`,
       format: 'cjs',
       sourcemap: true
     }
