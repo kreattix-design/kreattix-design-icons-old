@@ -1,6 +1,6 @@
 # Kreattix Design Icons
 
-> {{description}} > [![NPM](https://img.shields.io/npm/v/{{name}}.svg)](https://www.npmjs.com/package/{{name}}) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+> [![NPM](https://img.shields.io/npm/v/kreattix-design-icons.svg)](https://www.npmjs.com/package/kreattix-design-icons) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
@@ -23,4 +23,4 @@ class Example extends Component {
 
 ## License
 
-{{license}} © [{{author}}](https://github.com/{{author}})
+MIT © [Prince Patel](https://github.com/patel-prince)

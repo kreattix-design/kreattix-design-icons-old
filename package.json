@@ -1,6 +1,6 @@
 {
   "name": "kreattix-design-icons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "UI component library for React JS",
   "outputDir": "lib",
   "main": "lib/index.js",
@@ -8,6 +8,12 @@
   "source": "src/index.tsx",
   "files": [
     "lib"
+  ],
+  "keywords": [
+    "kreattix design",
+    "kreattix design icons",
+    "icons",
+    "react icons"
   ],
   "scripts": {
     "start": "npm run build",
