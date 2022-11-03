@@ -1,6 +1,6 @@
 {
   "name": "kreattix-design-icons",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "UI component library for React JS",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",

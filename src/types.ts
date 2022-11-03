@@ -1,1 +1,1 @@
-export type IconTypes = 'Logo' | 'Close' | 'Plus'
+export type IconNames = 'Logo' | 'Close' | 'Plus'
