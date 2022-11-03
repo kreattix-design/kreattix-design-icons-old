@@ -5,6 +5,7 @@ import pkg from './package.json'
 import ts from 'typescript'
 import typescript from 'rollup-plugin-typescript2'
 import svg from 'rollup-plugin-svg'
+import copy from 'rollup-plugin-copy'
 
 export default {
   input: pkg.source || 'src/index.tsx',
@@ -36,6 +37,9 @@ export default {
       output: {
         comments: false
       }
+    }),
+    copy({
+      targets: [{ src: 'src/icon-svg/*', dest: 'lib/svg/' }]
     })
   ]
 }
