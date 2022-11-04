@@ -1,6 +1,6 @@
 {
   "name": "kreattix-design-icons",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "UI component library for React JS",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -26,8 +26,8 @@
   "author": "Prince Patel",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^23.0.2",
